@@ -1,0 +1,1 @@
+[09-Jan-2020 17:26:02 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/pamb6923/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
